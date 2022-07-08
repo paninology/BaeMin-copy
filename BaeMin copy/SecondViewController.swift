@@ -28,6 +28,12 @@ class SecondViewController: UIViewController {
         movietitleLabel.backgroundColor = UIColor.lightGray
         movietitleLabel.textColor = .red
         movietitleLabel.font =  .boldSystemFont(ofSize: 30) //UIFont 생략
+        
+        
+        print(1)
+        print(2)
+        
+        
     }
     
     @IBAction func buttonPressed(_ sender: UIButton) {

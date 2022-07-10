@@ -10,6 +10,10 @@ import UIKit
 class entryViewController: UIViewController {
     @IBOutlet weak var topView: UIView!
     
+    
+    
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
